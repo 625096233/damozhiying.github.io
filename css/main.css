@@ -2667,3 +2667,14 @@ embed {
   position: relative;
   top: 1px;
 }
+
+
+
+
+.icon-logo {
+    font-size: 24px;
+    color: #fff;
+}
+.icon-logo:before {
+    content: "\e60b";
+}
